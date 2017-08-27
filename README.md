@@ -1,4 +1,4 @@
 # WP Plugin
 
-## her-bp (記錄血壓)
+## rec-blood  (記錄血壓)
 
