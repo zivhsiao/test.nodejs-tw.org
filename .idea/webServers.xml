@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fbc7c3a9-d639-447c-a48b-75dc0fcbfb2c" name="SFTP" url="http://172.104.52.191">
+        <fileTransfer host="172.104.52.191" port="22" rootFolder="/var/www/test/wordpress" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
