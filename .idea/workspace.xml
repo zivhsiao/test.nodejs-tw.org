@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1e12da1-9f40-4f8d-a2eb-ef002717bfbc" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.rd" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="b1e12da1-9f40-4f8d-a2eb-ef002717bfbc" name="Default" comment="readme">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/pkher-first.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,13 +14,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pkher-first.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/pkher-first.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#6#227#0#PHP" expanded="true" />
+                <marker date="1503842660638" expanded="true" signature="537:665" ph="..." />
+                <marker date="1503842660638" expanded="true" signature="554:653" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,6 +48,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.rd" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/pkher-first.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -44,9 +61,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1680" />
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1280" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -86,10 +102,18 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="test.nodejs-tw.org" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test.nodejs-tw.org" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="akismet" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,7 +152,9 @@
       <updated>1503819187786</updated>
       <workItem from="1503819189317" duration="966000" />
       <workItem from="1503821213633" duration="108000" />
-      <workItem from="1503824316415" duration="414000" />
+      <workItem from="1503824316415" duration="1313000" />
+      <workItem from="1503835155297" duration="2080000" />
+      <workItem from="1503883674250" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1503824580086</created>
@@ -137,21 +163,34 @@
       <option name="project" value="LOCAL" />
       <updated>1503824580086</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readme">
+      <created>1503824738131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503824738131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme">
+      <created>1503833635965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503833635965</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1488000" />
+    <option name="totallyTimeSpent" value="5245000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2911302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2944622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44091362" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -185,7 +224,94 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/pkher-first.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="33" column="31" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#6#227#0#PHP" expanded="true" />
+            <marker date="1503842660638" expanded="true" signature="537:665" ph="..." />
+            <marker date="1503842660638" expanded="true" signature="554:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ssh-sftp-updater-support/class-wp-filesystem-ssh2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9030">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1503817727186" expanded="true" signature="13574:13581" ph="..." />
+            <marker date="1503817727186" expanded="true" signature="13864:13871" ph="..." />
+            <marker date="1503817727186" expanded="true" signature="16426:16505" ph="SELECT * FRO... $" />
+            <marker date="1503817727186" expanded="true" signature="21398:21411" ph="..." />
+            <marker date="1503817727186" expanded="true" signature="24761:24781" ph="..." />
+            <marker date="1503817727186" expanded="true" signature="25783:25862" ph="SELECT COUNT... $" />
+            <marker date="1503817727186" expanded="true" signature="26100:26201" ph="SELECT COUNT... $" />
+            <marker date="1503817727186" expanded="true" signature="28800:28874" ph="SELECT COUNT... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1503817727944" expanded="true" signature="13472:13609" ph="SELECT comme... $" />
+            <marker date="1503817727944" expanded="true" signature="14078:14154" ph="DELETE FROM " />
+            <marker date="1503817727944" expanded="true" signature="14209:14288" ph="DELETE FROM " />
+            <marker date="1503817727944" expanded="true" signature="15027:15241" ph="SELECT m.com... $" />
+            <marker date="1503817727944" expanded="true" signature="15980:16062" ph="SELECT COUNT... $" />
+            <marker date="1503817727944" expanded="true" signature="16170:16317" ph="SELECT COUNT... $" />
+            <marker date="1503817727944" expanded="true" signature="17997:18050" ph="SELECT * FRO... $" />
+            <marker date="1503817727944" expanded="true" signature="22767:22820" ph="SELECT * FRO... $" />
+            <marker date="1503817727944" expanded="true" signature="24647:24700" ph="SELECT * FRO... $" />
+            <marker date="1503817727944" expanded="true" signature="26875:26961" ph="SELECT comme... $" />
+            <marker date="1503817727944" expanded="true" signature="29878:29952" ph="SELECT COUNT... $" />
+            <marker date="1503817727944" expanded="true" signature="31362:31376" ph="..." />
+            <marker date="1503817727944" expanded="true" signature="42969:42983" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/pkher-first.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#227#0#PHP" expanded="true" />
+            <marker date="1503842660638" expanded="true" signature="537:665" ph="..." />
+            <marker date="1503842660638" expanded="true" signature="554:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
